@@ -12,6 +12,7 @@ namespace PI_Travisci
             Console.WriteLine("Enter your lastname: ");
             var lname = Console.ReadLine();
             Console.WriteLine("Yousr lastname is " + lname);
+            Console.WriteLine("Bye!");
         }
     }
 }
