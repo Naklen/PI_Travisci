@@ -6,9 +6,9 @@ namespace PI_Travisci
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name: ");
+            Console.WriteLine("Enter your Name: ");
             var name = Console.ReadLine();
-            Console.WriteLine("Yousr name is " + name);
+            Console.WriteLine("Yousr Name is " + name);
         }
     }
 }
